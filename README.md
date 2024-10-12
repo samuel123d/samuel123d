@@ -39,8 +39,3 @@
     </td>             
  </tr>
 </table>
-</div><div style=“text-align: center;”> <div style=“display: inline-block; height: 100%;”> <picture> <source media=“(prefers-color-scheme: dark)” srcset=“https://github-readme-stats.vercel.app/api/top-langs?username=samuel123d&show_icons=true&theme=dracula&locale=en&layout=compact” /> <source media=“(prefers-color-scheme: light)” srcset=“https://github-readme-stats.vercel.app/api/top-langs?username=samuel123d&show_icons=true&locale=en&layout=compact” /> <img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs?username=samuel123d&show_icons=true&theme=dracula&locale=en&layout=compact” alt=“samuel123d” style=“height: 200px;” /> </picture> </div>
-
-<div style=“display: inline-block; height: 100%;”> <picture> <source media=“(prefers-color-scheme: dark)” srcset=“https://github-readme-stats.vercel.app/api?username=samuel123d&show_icons=true&theme=dracula&locale=en” /> <source media=“(prefers-color-scheme: light)” srcset=“https://github-readme-stats.vercel.app/api?username=samuel123d&show_icons=true&locale=en” /> <img align=“center” src=“https://github-readme-stats.vercel.app/api?username=samuel123d&show_icons=true&theme=dracula&locale=en” alt=“samuel123d” style=“height: 200px;” /> </picture> </div> </div>
-
-<div style=“text-align: center;”> <picture> <source media=“(prefers-color-scheme: dark)” srcset=“https://github.com/samuel123d/samuel123d/blob/output/github-snake-dark.svg” /> <source media=“(prefers-color-scheme: light)” srcset=“https://github.com/samuel123d/samuel123d/blob/output/github-snake.svg” /> <img alt=“github-snake” src=“https://github.com/samuel123d/samuel123d/blob/output/ocean.gif” /> </picture> </div>

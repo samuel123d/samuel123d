@@ -22,7 +22,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://iconduck.com/icons/102421/file-type-sqlite" alt="icon" width="65" height="65" />
       <br>Sqlite
     </td>
     <td align="center" width="96">

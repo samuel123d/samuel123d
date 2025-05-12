@@ -5,7 +5,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.instagram.com/samuel_anderson.ml/" target="blank"><img align="center" sec="http://www.w3.org/2000/svg" alt="Samuel Anderson" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/samuel_anderson.ml/" target="blank"><img align="center" sec="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Samuel Anderson" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/samuel-anderson-79007a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samuel Anderson" height="30" width="40" /></a>
 </p>
 

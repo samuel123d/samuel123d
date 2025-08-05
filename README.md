@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
 
-<h3 align="center">Tec. systems developer and analyst, from Brazil.</h3>
+<h3 align="center">Systems developer and analyst, from Brazil.</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
